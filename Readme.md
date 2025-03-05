@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">👋 नमस्ते | Hola | Bonjour | Hallo | Ciao | Olá | Hallo | Привет | 你好 | こんにちは | 안녕하세요 | مرحبا | Merhaba | Γεια σας | שלום | Habari | สวัสดี | হ্যালো | Xin chào<br>🎓 Studying Engineering at Vellore Institute of Technology<br>🚀 Innovator  <br>🧠Building Artificial Brains </h6>
+<h6 align="left">👋 नमस्ते | Hola | Bonjour | Hallo | Ciao | Olá | Hallo | Привет | 你好 | こんにちは | 안녕하세요 | مرحبا | Merhaba | Γεια σας | שלום | Habari | สวัสดี | হ্যালো | Xin chào<br>🎓 Studying Engineering at Vellore Institute of Technology<br>🚀 Innovator  <br>🧠Programming my Reality </h6>
 
 ###
 
