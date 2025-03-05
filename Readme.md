@@ -60,10 +60,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iareARiES&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=default&username=iareARiES" alt="Layout with last medium posts"  />
-</div>
-
 ###
 
 <picture>
