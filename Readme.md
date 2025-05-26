@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">👋 नमस्ते | Hola | Bonjour | Hallo | Ciao | Olá | Hallo | Привет | 你好 | こんにちは | 안녕하세요 | مرحبا | Merhaba | Γεια σας | שלום | Habari | สวัสดี | হ্যালো | Xin chào<br>🎓 Studying Engineering at Vellore Institute of Technology<br> 📍Intern at CSIR 4Pi, Council of Scientific and Industrial Research, Gov. of India  <br>🚀 Innovator  <br>🧠Programming my Reality </h6>
+<h6 align="left">👋 नमस्ते | Hola | Bonjour | Hallo | Ciao | Olá | Hallo | Привет | 你好 | こんにちは | 안녕하세요 | مرحبا | Merhaba | Γεια σας | שלום | Habari | สวัสดี | হ্যালো | Xin chào<br>🎓 Studying Engineering at Vellore Institute of Technology<br> 📍Intern at CSIR 4Pi, Council of Scientific and Industrial Research, Gov. of India <br>📍 Selected for Internship program Hackathon 2025 at ANNAM.AI, IIT Ropar <br>🚀 Innovator  <br>🧠Programming my Reality </h6>
 
 ###
 
