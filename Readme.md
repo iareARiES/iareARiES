@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">👋 नमस्ते | Hola | Bonjour | Hallo | Ciao | Olá | Hallo | Привет | 你好 | こんにちは | 안녕하세요 | مرحبا | Merhaba | Γεια σας | שלום | Habari | สวัสดี | হ্যালো | Xin chào<br>🎓 Studying Engineering at Vellore Institute of Technology<br> 📍Ex- Intern at CSIR 4Pi, Council of Scientific and Industrial Research, Gov. of India <br>📍SAMSUNG PRISM Intern <br>🚀 Innovator  <br>🧠Programming my Reality </h6>
+<h6 align="left">👋 नमस्ते | Hola | Bonjour | Hallo | Ciao | Olá | Hallo | Привет | 你好 | こんにちは | 안녕하세요 | مرحبا | Merhaba | Γεια σας | שלום | Habari | สวัสดี | হ্যালো | Xin chào<br>🎓 Studying Engineering at Vellore Institute of Technology<br>Software Engineering Intern @ Staunch Technologies <br> 📍Ex- Intern at CSIR 4Pi, Council of Scientific and Industrial Research, Gov. of India <br>📍Ex- SAMSUNG PRISM Intern <br> 4X hackathon wins (1 National and 3 Regional) <br>I am Programming my Reality </h6>
 
 ###
 
